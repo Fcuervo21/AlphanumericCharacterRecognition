@@ -18,9 +18,14 @@ Final project for the subject of Artificial Vision to generate an automation sys
 ## Description of the content
 For a better study of the system, the code was separated into various files with their appropriate documentation.
 
- - 📄 File "a" shows the code for image preprocessing and enhancement.
- - 📄 In file "b" is the code where the CRAFT method (Pretrained Neural Network) with OCR is found.
+ - 📄 File A "a" shows the code for image preprocessing and enhancement.
+ - 📄 In file B "b" is the code where the CRAFT method (Pretrained Neural Network) with OCR is found.
  - 📂 In the image folder there is a series of images to be used as a test within the code.
+ 
+  - The order of execution consists of the following:
+     - To perform the preprocessing of the images using the A file, remember to place the appropriate paths for reading and writing images.
+     - In file B, place the output file of file A as an input to carry out the CRAFT - OCR process.
+
 
 
 ## 🛠 Requirements
@@ -32,6 +37,7 @@ For a better study of the system, the code was separated into various files with
     -
         - Click on the required libraries in the terminal (generally they are artificial vision libraries).
         - Install them.
+        - Run again.
 
 ## Distribution of tasks
 
