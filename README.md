@@ -18,15 +18,19 @@ Final project for the subject of Artificial Vision to generate an automation sys
 ## Description of the content
 For a better study of the system, the code was separated into various files with their appropriate documentation.
 
- - 📄 File A "a" shows the code for image preprocessing and enhancement.
- - 📄 In file B "b" is the code where the CRAFT method (Pretrained Neural Network) with OCR is found.
+ - 📄 File A "ImagePreprocessing.mlx" shows the code for image preprocessing and enhancement.
+ - 📄 In file B "CRAFTandOCR.mlx" is the code where the CRAFT method (Pretrained Neural Network) with OCR is found.
  - 📂 In the image folder there is a series of images to be used as a test within the code.
  
   - The order of execution consists of the following:
      - To perform the preprocessing of the images using the A file, remember to place the appropriate paths for reading and writing images.
      - In file B, place the output file of file A as an input to carry out the CRAFT - OCR process.
 
+- Because .mlx files cannot be opened on Github, their content was placed in the PDF files with the same name which display their content with their documentation.
 
+#### Bag of Visual Words Files
+- This file includes a classification method called Bag Of Visual Words which performs a classification through training, to later compare the trained model with an input image and show the Output of the detected text as a result, however, this process is not functional due to because it only identifies an individual character in a photograph.
+- This file was placed as evidence of a classification process, extensive improvements must be made for this method to work.
 
 ## 🛠 Requirements
 
@@ -38,6 +42,7 @@ For a better study of the system, the code was separated into various files with
         - Click on the required libraries in the terminal (generally they are artificial vision libraries).
         - Install them.
         - Run again.
+        
 
 ## Distribution of tasks
 
