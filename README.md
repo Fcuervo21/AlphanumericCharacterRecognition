@@ -3,7 +3,8 @@
 
 - LIS4042 Artificial Vision
 - Professor: Zobeida Guzmán
-- Autumn 2022 UDLAP
+- Autumn 2022 
+- UDLAP
 
 Final project for the subject of Artificial Vision to generate an automation system for the extraction of alphanumeric characters through photographs.
 
