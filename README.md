@@ -46,6 +46,8 @@ For a better study of the system, the code was separated into various files with
         
 
 ## Distribution of tasks
+![Captura de Pantalla 2022-11-22 a la(s) 2 56 45](https://user-images.githubusercontent.com/63762598/203270144-700087e5-5add-476c-bd91-480e6b2f3797.png)
+
 
 
 
